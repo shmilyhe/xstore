@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.utils;
+package io.shmilyhe.xmlstore.utils;
 
 /*
  * @(#)ReflectUtils.java   1.0  2011-9-28

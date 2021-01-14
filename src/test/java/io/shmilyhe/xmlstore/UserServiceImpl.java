@@ -1,12 +1,12 @@
-package com.eshore.xmlstore;
+package io.shmilyhe.xmlstore;
 
 
 
 
 
 
-import com.eshore.xmlstore.core.CrudImpl;
-import com.eshore.xmlstore.vo.User;
+import io.shmilyhe.xmlstore.core.CrudImpl;
+import io.shmilyhe.xmlstore.vo.User;
 
 public class UserServiceImpl extends CrudImpl<User> implements UserService {
 	protected void initCache() {

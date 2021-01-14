@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.core;
+package io.shmilyhe.xmlstore.core;
 
 /*
  * @(#)Key.java   1.0  2011-9-26

@@ -1,4 +1,4 @@
-package com.eshore.xmlstore;
+package io.shmilyhe.xmlstore;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

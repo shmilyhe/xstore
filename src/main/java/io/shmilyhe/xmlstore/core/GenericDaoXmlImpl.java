@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.core;
+package io.shmilyhe.xmlstore.core;
 
 /*
  * @(#)AvpInfoDao.java   1.0  2011-8-20
@@ -28,10 +28,11 @@ import java.util.List;
 
 import java.util.logging.Logger;
 
-import com.eshore.xmlstore.api.GenericDao;
-import com.eshore.xmlstore.exception.CrudException;
-import com.eshore.xmlstore.utils.ReflectUtils;
 import com.thoughtworks.xstream.XStream;
+
+import io.shmilyhe.xmlstore.api.GenericDao;
+import io.shmilyhe.xmlstore.exception.CrudException;
+import io.shmilyhe.xmlstore.utils.ReflectUtils;
 
 /**
  * 把对象保存到XML中，或放过来。

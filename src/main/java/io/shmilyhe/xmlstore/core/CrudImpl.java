@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.core;
+package io.shmilyhe.xmlstore.core;
 
 /*
  * @(#)CrudImpl.java   1.0  2011-9-26
@@ -13,8 +13,8 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
-import com.eshore.xmlstore.api.*;
-import com.eshore.xmlstore.exception.CrudException;
+import io.shmilyhe.xmlstore.api.*;
+import io.shmilyhe.xmlstore.exception.CrudException;
 
 
 

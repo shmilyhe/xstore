@@ -1,8 +1,8 @@
-package com.eshore.xmlstore.api;
+package io.shmilyhe.xmlstore.api;
 
 import java.util.List;
 
-import com.eshore.xmlstore.exception.CrudException;
+import io.shmilyhe.xmlstore.exception.CrudException;
 
 
 

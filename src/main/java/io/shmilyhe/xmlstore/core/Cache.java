@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.core;
+package io.shmilyhe.xmlstore.core;
 
 /*
  * @(#)CacheBuilder.java   1.0  2011-9-26
@@ -17,8 +17,8 @@ import java.util.List;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.lang.reflect.FieldUtils;
 
-import com.eshore.xmlstore.api.Crudable;
-import com.eshore.xmlstore.exception.CrudConstraintException;
+import io.shmilyhe.xmlstore.api.Crudable;
+import io.shmilyhe.xmlstore.exception.CrudConstraintException;
 
 
 

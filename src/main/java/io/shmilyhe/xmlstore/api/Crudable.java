@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.api;
+package io.shmilyhe.xmlstore.api;
 
 /*
  * @(#)Curdable.java   1.0  2011-9-7

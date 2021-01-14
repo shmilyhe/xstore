@@ -1,12 +1,9 @@
-package com.eshore.xmlstore;
+package io.shmilyhe.xmlstore;
 
 import java.util.List;
 
-
-
-
-import com.eshore.xmlstore.api.Crud;
-import com.eshore.xmlstore.vo.User;
+import io.shmilyhe.xmlstore.api.Crud;
+import io.shmilyhe.xmlstore.vo.User;
 
 public interface UserService  extends Crud<User>{
 	User getUser(String name);

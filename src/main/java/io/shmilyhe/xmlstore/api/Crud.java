@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.api;
+package io.shmilyhe.xmlstore.api;
 
 /*
  * @(#)Aaaa.java   1.0  2011-9-7
@@ -10,7 +10,7 @@ package com.eshore.xmlstore.api;
 import java.util.EventListener;
 import java.util.List;
 
-import com.eshore.xmlstore.exception.CrudException;
+import io.shmilyhe.xmlstore.exception.CrudException;
 
 /**
  * 实现该接口以支持CRUD(Create/Read/Update/Delete)操作。

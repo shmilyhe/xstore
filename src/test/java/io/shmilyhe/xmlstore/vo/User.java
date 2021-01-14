@@ -1,8 +1,8 @@
-package com.eshore.xmlstore.vo;
+package io.shmilyhe.xmlstore.vo;
 
 import java.util.List;
 
-import com.eshore.xmlstore.api.Crudable;
+import io.shmilyhe.xmlstore.api.Crudable;
 
 public class User implements Crudable {
 	private long id;

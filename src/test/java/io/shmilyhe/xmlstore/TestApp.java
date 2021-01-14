@@ -1,13 +1,13 @@
-package com.eshore.xmlstore;
+package io.shmilyhe.xmlstore;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Test;
 
-import com.eshore.xmlstore.core.GenericDaoXmlImpl;
-import com.eshore.xmlstore.vo.Book;
-import com.eshore.xmlstore.vo.User;
+import io.shmilyhe.xmlstore.core.GenericDaoXmlImpl;
+import io.shmilyhe.xmlstore.vo.Book;
+import io.shmilyhe.xmlstore.vo.User;
 
 public class TestApp {
 	

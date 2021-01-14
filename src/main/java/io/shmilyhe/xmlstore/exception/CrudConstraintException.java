@@ -1,4 +1,4 @@
-package com.eshore.xmlstore.exception;
+package io.shmilyhe.xmlstore.exception;
 
 
 

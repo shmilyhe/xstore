@@ -1,6 +1,6 @@
-package com.eshore.xmlstore.vo;
+package io.shmilyhe.xmlstore.vo;
 
-import com.eshore.xmlstore.api.Crudable;
+import io.shmilyhe.xmlstore.api.Crudable;
 
 public class Book implements Crudable{
 	private long id;
